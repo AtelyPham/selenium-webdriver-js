@@ -15,7 +15,7 @@ Next, install [Chrome browser](https://www.google.com/intl/vi_vn/chrome/) and [C
 1. Clone the repo:
 
 ```
-git clone
+git clone https://github.com/AtelyPham/selenium-webdriver-js.git && cd selenium-webdriver-js
 ```
 
 2. Install dependencies by yarn
